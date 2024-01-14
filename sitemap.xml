@@ -1,20 +1,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://raddecom.com/index.html</loc>
+		<loc>https://con-tain.com/</loc>
 	</url>
 	<url>
-		<loc>http://raddecom.com/about.html</loc>
+		<loc>https://con-tain.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://raddecom.com/services.html</loc>
+		<loc>https://con-tain.com/about.html</loc>
 	</url>
 	<url>
-		<loc>http://raddecom.com/products.html</loc>
+		<loc>https://con-tain.com/services.html</loc>
 	</url>
 	<url>
-		<loc>http://raddecom.com/case.html</loc>
+		<loc>https://con-tain.com/range.html</loc>
 	</url>
 	<url>
-		<loc>http://raddecom.com/contact.html</loc>
+		<loc>https://con-tain.com/contact.html</loc>
 	</url>
 </urlset>
